@@ -1,12 +1,15 @@
 # Aardwolf
 ## Information about the Aardwolf
-Testing github commits on a single page application with one file index.html.
+A simple, one-page site detailing some basic information, including a picture, about the aardwolf.  This repo was created in order to test github commits on a single page application.
 
 ## Motivation
-Learning how to make github commits directly from Terminal on a mac using git command line interface.
+Learning how to make github commits directly from Terminal on a mac using git command line interface.  Secondary motivation includes promoting public knowledge of the adorable Aardwolf.
+
+## Visit Awesome Aardwolves
+https://paulaperoutka.github.io/Aardwolf/
 
 ## Screenshots
-None!  No content available. 
+![image]
 
 ## License
 None!
