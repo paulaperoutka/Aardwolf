@@ -9,7 +9,7 @@ Learning how to make github commits directly from Terminal on a mac using git co
 https://paulaperoutka.github.io/Aardwolf/
 
 ## Screenshots
-![image]
+![image] (file:///Users/paulaperoutka/Desktop/awesome-aardwolves-screenshot.png)
 
 ## License
 None!
